@@ -1,4 +1,5 @@
 ## Hello I'm Teetouch
+Computer engineering student at King Mongkut's Institute of Technology Ladkrabang
 
 ## Publication
 
